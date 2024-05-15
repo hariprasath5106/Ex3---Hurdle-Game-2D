@@ -3,18 +3,20 @@
 To develop a 2D game using C# program in unity.
 
 # ALGORITHM:
-# Step 1: Create a new project.
-
-# Step 2: Click Content browser -> Drag the file into the unity -> Place the assets in side the view port in unity.
-
-# Step 3: Define the physics properties to the objects such as collide.
-
-# Step 4: Assets -> Create -> # Script.
-
-# Step 5: Create a folder name Coding and create a C# file to add the coding in it.
-
-# Step 6: To add our C# Script file to our selected object, click on the C# Script file and drag it to our selected objects in the Hierarchy window nad run the application.
-# Step 7: Stop.
+# Step 1: 
+Create a new project.
+# Step 2: 
+Click Content browser -> Drag the file into the unity -> Place the assets in side the view port in unity.
+# Step 3:
+Define the physics properties to the objects such as collide.
+# Step 4:
+Assets -> Create -> # Script.
+# Step 5: 
+Create a folder name Coding and create a C# file to add the coding in it.
+# Step 6:
+To add our C# Script file to our selected object, click on the C# Script file and drag it to our selected objects in the Hierarchy window nad run the application.
+# Step 7: 
+Stop.
 
 # PROGRAM:
 ```
